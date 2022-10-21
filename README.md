@@ -26,7 +26,6 @@ Used to notify the users with an email containing the top 10 restaurant recommen
 
 
 ### Output Screenshots
-![](Output/Output1.PNG)
-![](Output/Output2.PNG)
-![](Output/Output3.PNG)
-![](Output/Output4.PNG)
+![](Output/Output1.png)
+![](Output/Output2.png)
+![](Output/Output3.png)
