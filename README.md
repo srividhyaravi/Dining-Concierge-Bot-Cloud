@@ -1,4 +1,7 @@
 # NYU-Cloud-Dining-Concierge-Bot
+### Team: 
+#### Srividhya Ravichandran - sr5962
+#### Roshni Sen - rs7633
 
 ![](Output/Architecture.png)
 
