@@ -1,6 +1,6 @@
 # NYU-Cloud-Dining-Concierge-Bot
 
-![](Output/Architecturediagram.PNG)
+![](Output/Architecture.PNG)
 
 ## Components
 ### S3 Bucket
